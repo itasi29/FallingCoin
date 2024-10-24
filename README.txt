@@ -1,12 +1,13 @@
-チーム人数：3人
-制作期間　：2か月(200時間)
-担当カ所　：
-　・PlayerBuff.cs
-　・PlayerController.cs
-　・CameraController.cs
-　・UiScript/Arrow.cs
-　・UiScript/ArrowDirector.cs
-　・UiScript/Gauge.cs
-　・UiScript/Score.cs
-　・UiScript/ScreenFade.cs
-　・UiScript/SoundFade.cs
+チーム人数　：3人
+使用エンジン：Unity
+制作期間　　：2023/06/01～2023/08/16(200時間)
+担当カ所　　：
+　・Assets/PlayerBuff.cs
+　・Assets/PlayerController.cs
+　・Assets/CameraController.cs
+　・Assets/UiScript/Arrow.cs
+　・Assets/UiScript/ArrowDirector.cs
+　・Assets/UiScript/Gauge.cs
+　・Assets/UiScript/Score.cs
+　・Assets/UiScript/ScreenFade.cs
+　・Assets/UiScript/SoundFade.cs
